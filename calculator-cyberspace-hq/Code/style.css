@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+
+.calculator {
+  margin: auto;
+  padding: 20pxa;
+  background-color: white;
+  border: 2px solid black;
+  width: 400px;
+  height: 500px;
+}
+
+input[type=text] {
+  width: 100%;
+  font-size: 36px;
+  text-align: right;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+input[type=button] {
+  width: 70px;
+  height: 70px;
+  font-size: 24px;
+  margin: 5px;
+}
+
+.row {
+  text-align: center;
+}
+
